@@ -1,4 +1,3 @@
-# VoidofMind.github.io
 
 <h2>Hello! You can apply to be a developer for <a href="https://www.teamvoid.cf">Team V</a> here!</h2>
 <p>&nbsp;</p>
