@@ -1,6 +1,6 @@
-<h2>Hello! You can apply to be a developer for <a href="https://www.teamvoid.cf">Team V</a> here!</h2>
+<p>Okay so basically, something is different. This contains <span style="color: #ff6600;"><strong>code</strong></span> that may or may not work, it may depend on your browser, <span style="color: #0000ff;">it may just be an issue that can't be fixed.</span> Whatever it is, it is now on your computer. <img src="https://cdn2.iconfinder.com/data/icons/leto-blue-cyber-security/64/__email_worm_virus-44-512.png" alt="virus" width="30" height="30" /></p>
+<p>Good day!</p>
 <p>&nbsp;</p>
-<h4>&nbsp;To apply for staff: <a href="https://forms.gle/AEw8SNPjVooUqBcZ8">Click Here</a> and finish the form. Once you've completed the form, DM VoidofMind#1251 on Discord, or staff on the Discord server; <a href="https://discord.gg/ap8SwzwYE7">Click Here</a>, then message him, telling him you're finished with the form, VoidofMind, one of the readers, or one of the helpers, will view the form and respond to your submission Once your submission is read, your email will be put on the collaboration for the site, Discord server, and if you are a reader/helper, the form.</h4>
-<p>(You do not have to friend VoidofMind or join the Discord server unless you are applying for staff, then you have to join the Discord server.)</p>
-<p>&nbsp;</p>
-<p>Github: <a href="https://github.com/VoidofMind/VoidofMind.github.io">https://github.com/VoidofMind/VoidofMind.github.io</a></p>
+<p><span style="color: #ff0000;">*Disclaimer: This will not cause damage to your computer, and the damage is not irreversable, you can easily clear this off of your computer, if it does not work, then it is not on your computer, I, nor my project, is responsible for any harm done to your device.</span></p>
+DesktopAppLink.CreateLink("applink.sample", "\"<path to exe>\"", "");
+<a href="applink.sample:">Run Desktop App</a>
