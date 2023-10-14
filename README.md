@@ -2,5 +2,3 @@
 <p>Good day!</p>
 <p>&nbsp;</p>
 <p><span style="color: #ff0000;">*Disclaimer: This will not cause damage to your computer, and the damage is not irreversable, you can easily clear this off of your computer, if it does not work, then it is not on your computer, I, nor my project, is responsible for any harm done to your device.</span></p>
-DesktopAppLink.CreateLink("applink.sample", "\"<https://github.com/VoidofMind/VoidofMind.github.io/blob/main/bird.bat>\"", "");
-<a href="applink.sample:">Run Desktop App</a>
