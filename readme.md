@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -119,7 +118,7 @@ async function send() {
     try {
 
         const response = await puter.ai.chat(prompt, {
-            model: "claude"
+            model: "claude-code"
         });
 
         thinking.textContent = response.message.content;
