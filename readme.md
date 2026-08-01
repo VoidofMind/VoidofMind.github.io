@@ -118,7 +118,7 @@ async function send() {
     try {
 
         const response = await puter.ai.chat(prompt, {
-            model: "claude-code"
+            model: "anthropic/claude-sonnet-4"
         });
 
         thinking.textContent = response.message.content;
